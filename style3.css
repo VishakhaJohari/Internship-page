@@ -1,0 +1,56 @@
+*{
+  font-family: monospace;
+ }
+
+html,body{
+  overflow-x: hidden;
+}
+
+#heading{ 
+  color: #f20a79;
+}
+.nav-item:hover{
+  
+  text-decoration:underline; 
+}
+
+#image{
+  height:400px;
+  width: 550px;
+  margin:0 80px;
+}
+
+#image1{
+  height: 480px;
+}
+
+.fa-check-square{
+  font-size: 25px;
+  word-spacing: 10px;
+}
+.one{
+ background:linear-gradient(90deg,#06d6a0,#bc00dd);
+  
+}
+.image2{
+  height: 90px;
+    width: 20px;
+}
+.card{
+  border-radius: 20px;
+  margin: 50px;
+}
+#subtitle{
+  color: #f20a79;
+}
+ .fa-color{
+  color:#f20a79;
+ }
+
+ #textarea{
+  height: 147px;
+ }
+ .btn{
+  background-color:#f20a79;
+ }
+
